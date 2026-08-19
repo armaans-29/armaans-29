@@ -108,14 +108,6 @@ I like projects that begin with a simple question and end somewhere unexpected.
 
 <br>
 
-<div align="center">
-
-<i>I'm particularly interested in the space between <b>"I know how this works"</b> and <b>"what if I try it another way?"</b></i>
-
-<b>This GitHub is where I explore that question.</b><br> <sub>Projects, experiments, and ideas as I learn and build.</sub>
-
-
-</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer"/>
