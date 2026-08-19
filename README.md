@@ -3,7 +3,7 @@
 
 
 # Hey, It's me 𝒜𝓇𝓂𝒶𝒶𝓃 𝒮𝓇𝒾𝓋𝒶𝓈𝓉𝒶𝓋𝒶 👋
-**An AI/ML Developer || Agentic AI || Generative AI**
+**AI/ML Developer || Agentic AI || Generative AI**
 
 <p align="center" style="font-size:15px; max-width:700px; margin-top:10px;">
 I build systems that turn raw data into meaningful solutions that can see, learn and predict, with a focus on machine learning, deep learning concepts and applied AI tools.
