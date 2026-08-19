@@ -6,7 +6,7 @@
 **AI/ML Developer || Agentic AI || Generative AI**
 
 <p align="center" style="font-size:15px; max-width:700px; margin-top:10px;">
-I build systems that turn raw data into meaningful solutions that can see, learn and predict, with a focus on machine learning, deep learning concepts and applied AI tools.
+I explore how raw data can be turned into meaningful results through machine learning, deep learning, and applied AI, mainly by learning through hands-on projects and experimentation.
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203A43,100:2C5364&height=2&width=1000"/>
