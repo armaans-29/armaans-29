@@ -1,6 +1,6 @@
-
-<div align="center">
-
+<img src="./armaan_lanyard.svg?v=2" alt="Armaan ID badge" width="330"/>
+</td>
+<td width="62%" valign="middle">
 
 # Hey, It's me 𝒜𝓇𝓂𝒶𝒶𝓃 𝒮𝓇𝒾𝓋𝒶𝓈𝓉𝒶𝓋𝒶 👋
 **AI/ML Developer || Agentic AI || Generative AI**
