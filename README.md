@@ -64,16 +64,21 @@ I like projects that begin with a simple question and end somewhere unexpected.
 </td>
 <td width="65%" valign="middle">
 
-### 🌸 My Anime Creations
+### 🌸 My Tech Creations
 
 | 🎌 Project | 💻 Tech | ⭐ |
 |:---|:---:|:---:|
-| [🍥 Naruto — Sage Mode](https://github.com/Meghamittal0920/Naruto-SageMode) | `HTML` `CSS` `JS` | 25 |
-| [⚔️ Zoro — King of Hell](https://github.com/Meghamittal0920/Zoro-King-of-hell) | `HTML` `CSS` `JS` | 9 |
-| [🌙 Demon Slayer — Yoriichi & Kokushibo](https://github.com/Meghamittal0920/Demon-Slayer-Yorichi-Kokoshibo-) | `HTML` `CSS` `JS` | 8 |
-| [👁️ JJK — Sukuna](https://github.com/Meghamittal0920/JJK-Sakuna) | `HTML` `CSS` `JS` | 8 |
-| [🏴‍☠️ One Piece 3D Website](https://github.com/Meghamittal0920/One-Piece-3D-Website) | `TypeScript` `Three.js` | 2 |
+| [🚀 Chronix Delay Predictor](https://github.com/armaans-29/Chronix-delay-predictor) | `Machine learning` `Python` `Numpy` `Matplotlib`  | 25 |
+| [🗣 Voice Assistant](https://github.com/Meghamittal0920/One-Piece-3D-Website) | `speech_recognition` `pyttsx3` `pywhatkit` `wikipedia` | 2 |
+| [🎀 Clothing Returnability Issue](https://github.com/armaans-29/clothing_returnability_system) | `Machine learning` `Python` `Numpy` `Matplotlib` | 9 |
+| [㉦ CV Steering Controller](https://github.com/armaans-29/Control-game) | `Python` `OpenCV` `pynput` `time` | 8 |
+| [🏛️ Constitutional System](https://github.com/armaans-29/Constitutional-system)) | `Python` `NLP` `Embedding` | 8 |
 
+speech_recognition 
+pyttsx3
+pywhatkit
+wikipedia
+datetime
 </td>
 </tr>
 </table>
