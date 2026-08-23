@@ -56,9 +56,7 @@ I like projects that begin with a simple question and end somewhere unexpected.
 
 
 
-<img src="./armaan_lanyard.svg?v=2" alt="Armaan ID badge" width="330"/>
-</td>
-<td width="62%" valign="middle">
+<img src="./armaan_lanyard.svg?v=3" alt="Armaan ID badge" width="330"/>
 
 ### 🧭 Currently Exploring
 
