@@ -345,6 +345,8 @@ For a prompt response contact me on 𝘪𝘯𝘴𝘵𝘢𝘨𝘳𝘢𝘮
 </div>
 
 
+### 🐍 Watch the snake eat my contributions
+
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
