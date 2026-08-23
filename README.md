@@ -349,7 +349,9 @@ For a prompt response contact me on 𝘪𝘯𝘴𝘵𝘢𝘨𝘳𝘢𝘮
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=armaans-29&color=ff7eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
+<br/><br/>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
