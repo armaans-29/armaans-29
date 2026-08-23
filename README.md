@@ -68,20 +68,11 @@ I like projects that begin with a simple question and end somewhere unexpected.
 
 | 🎌 Project | 💻 Tech | ⭐ |
 |:---|:---:|:---:|
-| [🚀 Chronix Delay Predictor](https://github.com/armaans-29/Chronix-delay-predictor) | `Machine learning` `Python` `Numpy` `Matplotlib`  | 25 |
 | [🗣 Voice Assistant](https://github.com/Meghamittal0920/One-Piece-3D-Website) | `speech_recognition` `pyttsx3` `pywhatkit` `wikipedia` | 2 |
+| [🚀 Chronix Delay Predictor](https://github.com/armaans-29/Chronix-delay-predictor) | `Machine learning` `Python` `Numpy` `Matplotlib`  | 25 |
 | [🎀 Clothing Returnability Issue](https://github.com/armaans-29/clothing_returnability_system) | `Machine learning` `Python` `Numpy` `Matplotlib` | 9 |
-| [㉦ CV Steering Controller](https://github.com/armaans-29/Control-game) | `Python` `OpenCV` `pynput` `time` | 8 |
+| [⏲ CV Steering Controller](https://github.com/armaans-29/Control-game) | `Python` `OpenCV` `pynput` `time` | 8 |
 | [🏛️ Constitutional System](https://github.com/armaans-29/Constitutional-system)) | `Python` `NLP` `Embedding` | 8 |
-
-speech_recognition 
-pyttsx3
-pywhatkit
-wikipedia
-datetime
-</td>
-</tr>
-</table>
 
 ### 🧭 Currently Exploring
 
