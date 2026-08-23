@@ -64,7 +64,7 @@ I like projects that begin with a simple question and end somewhere unexpected.
 </td>
 <td width="65%" valign="middle">
 
-### 🌸 My Tech Creations
+### 🦸🏻‍♀️ My Tech Creations
 
 | 🎌 Project | 💻 Tech | ⭐ |
 |:---|:---:|:---:|
