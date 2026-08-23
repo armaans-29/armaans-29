@@ -54,9 +54,29 @@ I like projects that begin with a simple question and end somewhere unexpected.
 <div align="center">
 
 
+<table>
+<tr>
+<td width="35%" valign="middle" align="center">
 
+<!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
+<img src="./armaan_lanyard.svg?v=3" alt="Armaan ID badge" width="280"/>
 
-<img src="./armaan_lanyard.svg?v=3" alt="Armaan ID badge" width="330"/>
+</td>
+<td width="65%" valign="middle">
+
+### 🌸 My Anime Creations
+
+| 🎌 Project | 💻 Tech | ⭐ |
+|:---|:---:|:---:|
+| [🍥 Naruto — Sage Mode](https://github.com/Meghamittal0920/Naruto-SageMode) | `HTML` `CSS` `JS` | 25 |
+| [⚔️ Zoro — King of Hell](https://github.com/Meghamittal0920/Zoro-King-of-hell) | `HTML` `CSS` `JS` | 9 |
+| [🌙 Demon Slayer — Yoriichi & Kokushibo](https://github.com/Meghamittal0920/Demon-Slayer-Yorichi-Kokoshibo-) | `HTML` `CSS` `JS` | 8 |
+| [👁️ JJK — Sukuna](https://github.com/Meghamittal0920/JJK-Sakuna) | `HTML` `CSS` `JS` | 8 |
+| [🏴‍☠️ One Piece 3D Website](https://github.com/Meghamittal0920/One-Piece-3D-Website) | `TypeScript` `Three.js` | 2 |
+
+</td>
+</tr>
+</table>
 
 ### 🧭 Currently Exploring
 
