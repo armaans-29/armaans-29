@@ -1,6 +1,4 @@
-<img src="./armaan_lanyard.svg?v=2" alt="Armaan ID badge" width="330"/>
-</td>
-<td width="62%" valign="middle">
+<div align="center">
 
 # Hey, It's me 𝒜𝓇𝓂𝒶𝒶𝓃 𝒮𝓇𝒾𝓋𝒶𝓈𝓉𝒶𝓋𝒶 👋
 **AI/ML Developer || Agentic AI || Generative AI**
@@ -54,6 +52,13 @@ I like projects that begin with a simple question and end somewhere unexpected.
 </div>
 
 <div align="center">
+
+
+
+
+<img src="./armaan_lanyard.svg?v=2" alt="Armaan ID badge" width="330"/>
+</td>
+<td width="62%" valign="middle">
 
 ### 🧭 Currently Exploring
 
