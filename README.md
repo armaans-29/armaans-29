@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Hey, It's me 𝒜𝓇𝓂𝒶𝒶𝓃 𝒮𝓇𝒾𝓋𝒶𝓈𝓉𝒶𝓋𝒶 👋
@@ -345,15 +346,13 @@ For a prompt response contact me on 𝘪𝘯𝘴𝘵𝘢𝘨𝘳𝘢𝘮
 </div>
 
 
-### 🐍 Watch the snake eat my contributions
+### 🐍 Watch the jet demolishing my contributions
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-<img src="https://komarev.com/ghpvc/?username=armaans-29&color=ff7eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-
-<br/><br/>
+  <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Sushmitadasari/Sushmitadasari/main/dist/github-jet.svg"
+    alt="GitHub Jet Heatmap"
+    width="100%"
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
